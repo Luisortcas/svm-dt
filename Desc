@@ -1,0 +1,14 @@
+El objetivo no consiste únicamente en obtener una predicción,
+sino en relacionar el comportamiento del modelo con los fundamentos matemáticos estudiados.
+La actividad integra los contenidos desarrollados en las sesiones de árboles de decisión y má-
+quinas de soporte vectorial:
+particiones binarias recursivas;
+índice de Gini, entropía y ganancia de información;
+profundidad, número de hojas y complejidad del árbol;
+pre-poda mediante max_depth, min_samples_split y min_samples_leaf;
+control explícito del número de hojas mediante max_leaf_nodes;
+poda por complejidad de coste mediante ccp_alpha;
+hiperplano separador, función de decisión y margen;
+vectores de soporte;
+kernels lineal, polinomial y RBF;
+efecto de C, γ y del grado d del kernel polinomial.
